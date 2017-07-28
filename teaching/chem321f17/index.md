@@ -28,7 +28,7 @@ Syllabus</a>
 </div>
 
 ## Welcome ##
-Welcome to the course web page for the Fall 2017 class of CHEM 321: Physical Chemistry I at [Morehouse College](http://morehouse.edu).
+Welcome to the course web page for the Fall 2017 class of CHEM 321: Physical Chemistry I at [Morehouse College](http://morehouse.edu). The links above may be very useful to you throughout the semester. There you will find a PDF copy of the syllabus, a repository of any related course materials, and homework problem sets. Also I will update the site with a short (two or three sentence) lecture recap describing what was covered in class during that day. Very useful if you miss class or just need a reminder of the last topic discussed.
 
 <div class="row">
   <div class="col-xs-12 col-sm-6">
@@ -58,5 +58,25 @@ u</a><br />
 </div>
 
 ## What is This Course All About? ##
-This course will offer an introduction into quantitative problem solving in chemical thermodynamics and chemical kinetics. More detailed theoretical insight will be gained about familiar general chemistry concepts such as entropy, enthalpy, calorimetry, temperature, and catalysis. Students will gain the ability to solve complex problems in these areas and learn to approach chemical problems based on physical insight.
+Part of a two-semester course sequence (321/322), Chemistry 321 is a physical chemistry course that relies heavily on your understanding and recall of the general chemical principles first presented in the introductory course sequence (111/112). Physical chemistry can be broadly defined as the application of physics to chemistry. The physics serves a guide with which we can build various models to explain chemical phenomena. These models include the kinetic theory of gases, collision theory of reactions, etc. The construction of these physical models requires the support of mathematics. Thus, physical chemistry is an inherently mathematical subject matter and can be conceived faster through practice exercises and problem solving. Many problems will be assigned in this course through weekly problem sets, however it is encouraged that students seek to solve as many end-of-chapter problems as possible. 321 specifically focuses on quantitative problem solving in chemical thermodynamices and kinetics. More detailed theoretical insight will be gained about familiar chemistry conceptes such as the ideal gas law, entropy, enthalpy, calorimetry, temperature, and catalysis. Students will harness the ability to solve complex problems in these areas and learn to approach chemical problems based on physical insight.
 
+## Course Topics ##
+-Properties of Gases and the First Law of Thermodynamics <br />
+-Critical Behavior, Heat, Work, and Internal Energy <br />
+-Entropy and the Second Law of Thermodynamics <br />
+-Combining the First and Second Laws <br />
+-Gibbs and Helmohltz Free Energies/Gibbs-Helmholtz Equation <br />
+-Maxwell Relations <br />
+-Phase Equilibria <br />
+-Kinetic Theory of Gases/Molecular Flux <br />
+-Experimental Kinetics <br />
+
+## Educational Outcomes ##
+-Have an appreciation for the interconnected nature of chemistry, physics, and mathematics.<br />
+-Be able to identify, classify, and quantify the physical state of a system.<br />
+-Make predictions about macroscopic properties given information about the microscopic state
+of a system. <br />
+-Understand and appreciate the role of temperature in chemistry. <br />
+-Understand equations of state and their power in classifying chemical systems. <br />
+-Be able to use statistics as a predictive tool for chemical problems. <br />
+-Have the ability to identify what physical principles constitutes a good catalyst.<br />

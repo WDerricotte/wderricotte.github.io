@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Computational and Theoretical Chemistry
 ---
 
 <ol class="breadcrumb">
@@ -8,19 +8,16 @@ title: Welcome
   <li class="active">Home</li>
 </ol>
 
-My name is Wallace Derricotte and I am an assistant professor in the <a href="http://www.morehouse.edu/academics/chem/">Department of Chemistry</a> at <a href="http://morehouse.edu">Morehouse College</a> in <a href="https://www.google.com/maps/place/Atlanta,+GA/@33.7676338,-84.560694,11z/data=!3m1!4b1!4m5!3m4!1s0x88f5045d6993098d:0x66fede2f990b630b!8m2!3d33.7489954!4d-84.3879824">Atlanta, GA</a>. This site serves as a hub for my professional blog, news on my scholarly activities, and course materials for my students. <br />
 
-My primary research interest is the study of electronic excited states in molecular systems. More specifically, I use computational quantum chemistry methods to investigate the properties of electronic excitations. My early work was focused on developing time-independent density functional theory approaches for computation of high energy core excited states relevant for X-ray absorption spectroscopy. More recently, my research has expanded to developing new orbital representations to study the character of virtual orbitals in quantum chemistry calculations. 
+<img src="{{ site.baseurl }}/images/Website_banner.png" style="width:757.01px;height:200.36px;">
 
-Although the development of quantum chemistry methods involves extensive knowledge of quantum mechanics, applying and analyzing the results of such calculations are accesible to any chemistry student. Thus my research lends itself well to incorporating undergraduate students of all levels. Due to the interdisciplinary nature of quantum chemistry research students of math, physics, or even computer science may also be interested. If these types of problems spark your curiosity and you wish to undertake a research project with me, please stop by my office to let me know you are interested. 
+<font size="5">About</font>
 
-To contact me, use any of the online/social media links located in the sidebar at the right. Here is my physical work address:<br />
+We are a computational chemistry group in the <a href="http://www.morehouse.edu/academics/chem/">Department of Chemistry</a> at <a href="http://morehouse.edu">Morehouse College</a> in <a href="https://www.google.com/maps/place/Atlanta,+GA/@33.7676338,-84.560694,11z/data=!3m1!4b1!4m5!3m4!1s0x88f5045d6993098d:0x66fede2f990b630b!8m2!3d33.7489954!4d-84.3879824">Atlanta, GA</a>. We focus on the development and application of modern computational methods to study geometric and electronic structure of molecules. More specifically we are interested in studying organic molecules useful for applications in organic electronic devices such as organic light emitting diodes (OLEDs) and organic field effect transistors (OFETs). Fabrication of efficient devices involves deep insight into the chemistry of these materials. Knowledge of their reactivity, stability, charge carrier properties are things we can probe with the aid of computational tools.  
 
-<address>
-Wallace D. Derricotte, PhD<br />
-Assistant Professor<br />
-Department of Chemistry<br />
-Morehouse College<br />
-830 Westview Dr SW<br />
-Atlanta, GA 30314<br />
-</address>
+Although the development of quantum chemistry methods involves extensive knowledge of quantum mechanics, applying and analyzing the results of such calculations are accesible to any student of the physical sciences. Thus our research lends itself well to incorporating undergraduate students of all levels. Due to the interdisciplinary nature of quantum chemistry research students of math, physics, or even computer science may also be interested. Please check back here for updates on our group and research. Highly motivated students are encourages to contact Dr. Derricotte if they are interested in pursuing an undergraduate research project. 
+
+<font size="5">News</font>
+<ul>
+  <li>July 18th, 2017 - Dr. Derricotte gave a poster presentation at the American Conference on Theoretical Chemistry at Boston University entitled &quot;Localized Intrinsic Valence Virtual Orbitals for the Automated Classification of Core-Excited States&quot;</li>
+</ul>
