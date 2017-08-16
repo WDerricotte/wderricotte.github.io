@@ -1,5 +1,5 @@
 ---
-title: Elementary Physical Chemistry I
+title: Physical Chemistry I: Thermodynamics and Kinetics
 author: Wallace Derricotte
 layout: default
 ---
@@ -13,16 +13,16 @@ layout: default
 <div class="row">
 <div class="col-xs-12">
 <div class="btn-group btn-group-justified">
-<a class="btn btn-default btn-success" href="{{site.baseurl}}/teaching/mat320s17/syllabus/">
+<a class="btn btn-default btn-success" href="{{site.baseurl}}/teaching/chem321f17/syllabus.pdf">
 Syllabus</a>
-<a class="btn btn-default btn-primary" href="{{site.baseurl}}/teaching/mat320s17/materials/"
+<a class="btn btn-default btn-primary" href="{{site.baseurl}}/teaching/chem321f17/materials/"
 >
 <span class="hidden-xs">Course Materials</span><span class="visible-xs">Materials</span>
 </a>
-<a class="btn btn-default btn-warning" href="{{site.baseurl}}/teaching/mat320s17/homework/">
+<a class="btn btn-default btn-warning" href="{{site.baseurl}}/teaching/chem321f17/problem_sets/">
 <span class="hidden-xs">Problem Sets</span><span class="visible-xs">HW</span>
 </a>
-<a class="btn btn-default btn-info" href="{{site.baseurl}}/teaching/mat320s17/journal/">Lecture Recap</a>
+<a class="btn btn-default btn-info" href="{{site.baseurl}}/teaching/chem321f17/lecture_recap/">Lecture Recap</a>
 </div>
 </div>
 </div>
@@ -48,10 +48,9 @@ Welcome to the course web page for the Fall 2017 class of CHEM 321: Physical Che
       <h2>Instructor Information</h2>
       <i class="fa fa-user fa-fw"></i>&nbsp; Wallace D. Derricotte, PhD<br />
       <i class="fa fa-university fa-fw"></i>&nbsp; Merrill 343<br />
-      <i class="fa fa-users fa-fw"></i>&nbsp; MWF 10:15-11:15AM, T 11:00-12:00PM<br />
-      <i class="fa fa-envelope-o fa-fw"></i>&nbsp; <a href="mailto:wderricotte@morehouse.edu">wderricotte@morehouse.edu
-u</a><br />
-      <i class="fa fa-phone fa-fw"></i>&nbsp; 404.781.5191<br />
+      <i class="fa fa-users fa-fw"></i>&nbsp; MWF 10:00 - 10:50AM<br />
+      <i class="fa fa-envelope-o fa-fw"></i>&nbsp; <a href="mailto:wderricotte@morehouse.edu">wderricotte@morehouse.edu</a><br />
+      <i class="fa fa-phone fa-fw"></i>&nbsp; 404.681.2800<br />
       <i class="fa fa-link fa-fw"></i>&nbsp; <a href="{{site.baseurl}}">wderricotte.github.io</a>
     </div>
   </div>

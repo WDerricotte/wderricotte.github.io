@@ -12,7 +12,7 @@ layout: default
 This section is primarily designed for my current students, but if you are not one of my students and somehow found your way here, feel free to poke around. Unless stated otherwise, content on this site that is authored by Wallace D. Derricotte and is licensed under a [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Office Hours ##
-COMING SOON!
+Monday 1:00PM - 4:00PM Merrill Hall Room 343
 
 ## Current Courses ##
 Here are the courses that I am currently teaching (Fall 2017) at [Morehouse College](http://morehouse.edu).
