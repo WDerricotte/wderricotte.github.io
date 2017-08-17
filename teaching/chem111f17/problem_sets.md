@@ -30,4 +30,4 @@ ecap</a>
 </div>
 
 ## Problem Sets ##
-COMING SOON
+- **Problem Set 1:** [Chemical Foundations: Uncertainty, Matter, Density, Temperature]({{site.baseurl}}/teaching/chem111f17/problem_set_1.pdf) (Due Date: August 25th, 2017)
