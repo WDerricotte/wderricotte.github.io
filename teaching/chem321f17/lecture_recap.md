@@ -30,4 +30,5 @@ Syllabus</a>
 ## Week 1 ##
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 16th, 2017:</b> First day of classes here at Morehouse! After a quick overview of the syllabus we had an introduction to the topic of thermodynamics. Including how to define and classify a thermodynamic system based on whether or not energy and/or matter can flow freely from it. We ended class with a discussion of extensive and intensive state variables and discussed the physical assumptions of the ideal gas law.</li>
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Friday, January 18th, 2017:</b> Derivation of the Ideal Gas Law! We threw a bunch of particles into a box and (after a few assumptions) showed that you can use your knowledge of classical mechanics to derive everyones favorite state equation (PV=nRT).</li>
 </ul>

@@ -30,4 +30,5 @@ Syllabus</a>
 ## Week 1 ##
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 16th, 2017:</b> First day of classes here at Morehouse! After a quick overview of the syllabus we discussed what makes chemistry a <q> Central Science </q> making connections to familiar developments in other fields of study. We discussed the scientific method, accuracy vs. precision, and introduced the rules for determining the number of significant figures in a reported value. We ended class by taking a stab at several examples for determining sig figs. </li>
+<li><i class="fa-li fa fa-calendar-check-o"></i><b>Friday, January 18th, 2017:</b> Covered quite a few topics today. Class began with a review of significant figures in math operations and dimensional analysis. Then we introduced the concepts of temperature and density. The first Problem Set was distributed as well, keep in mind it is due next Friday and your first quiz is next week Wednesday.</li>
 </ul>
