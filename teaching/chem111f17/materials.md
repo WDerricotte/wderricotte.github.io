@@ -29,4 +29,6 @@ ecap</a>
 </div>
 
 ## Lecture Notes ##
-- **Lecture Notes 1:** [Chemical Foundations]({{site.baseurl}}/teaching/chem111f17/chemical_foundations.pdf)  
+Below are a copy of the lecture notes used in class. They are not intended to be a complete standalone treatment of any individual topic, these are simply the figures, definitions, and problems used to help guide our in-class discussion.
+- **Lecture Notes 1:** [Chemical Foundations]({{site.baseurl}}/teaching/chem111f17/chemical_foundations.pdf) 
+- **Lecture Notes 2:** [Atomic and Molecular Structure]({{site.baseurl}}/teaching/chem111f17/atomic_and_molecular_structure.pdf) 

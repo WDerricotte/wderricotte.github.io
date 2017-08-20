@@ -28,4 +28,6 @@ Syllabus</a>
 </div>
 
 ## Lecture Notes ##
-- **Lecture Notes 1:** [Introduction to Thermodynamics]({{site.baseurl}}/teaching/chem321f17/introduction_to_thermodynamics.pdf)  
+Below are a copy of the lecture notes used in class. They are not intended to be a complete standalone treatment of any individual topic, these are simply the figures, definitions, and problems used to help guide our in-class discussion.
+- **Lecture Notes 1:** [Introduction to Thermodynamics]({{site.baseurl}}/teaching/chem321f17/introduction_to_thermodynamics.pdf) 
+- **Lecture Notes 2:** [Properties of Ideal Gases]({{site.baseurl}}/teaching/chem321f17/properties_of_ideal_gases.pdf) 
