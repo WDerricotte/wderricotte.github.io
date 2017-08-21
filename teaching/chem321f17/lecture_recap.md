@@ -32,3 +32,8 @@ Syllabus</a>
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 16th, 2017:</b> First day of classes here at Morehouse! After a quick overview of the syllabus we had an introduction to the topic of thermodynamics. Including how to define and classify a thermodynamic system based on whether or not energy and/or matter can flow freely from it. We ended class with a discussion of extensive and intensive state variables and discussed the physical assumptions of the ideal gas law.</li>
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Friday, January 18th, 2017:</b> Derivation of the Ideal Gas Law! We threw a bunch of particles into a box and (after a few assumptions) showed that you can use your knowledge of classical mechanics to derive everyones favorite state equation (PV=nRT).</li>
 </ul>
+
+## Week 2 ##
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 21st, 2017:</b> Today we introduced the concept of <q>root mean square velocity</q> using a form of the ideal gas law that included molecular speed that we derived last week. We also discussed various relationships between state variables in the ideal gas law, isotherms, isobars, and isochores. We began working on a gas compression problem that we will resume on Wednesday.</li>
+</ul>
