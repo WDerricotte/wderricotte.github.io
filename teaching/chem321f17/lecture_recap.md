@@ -35,5 +35,6 @@ Syllabus</a>
 
 ## Week 2 ##
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 21st, 2017:</b> Today we introduced the concept of <q>root mean square velocity</q> using a form of the ideal gas law that included molecular speed that we derived last week. We also discussed various relationships between state variables in the ideal gas law, isotherms, isobars, and isochores. We began working on a gas compression problem that we will resume on Wednesday.</li>
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Monday, January 21st, 2017:</b> Today we introduced the concept of <q>root mean square velocity</q> using a form of the ideal gas law that included molecular speed that we derived last week. We also discussed various relationships between state variables in the ideal gas law, isotherms, isobars, and isochores. We began working on a gas compression problem that we will resume on Wednesday.</li>
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 23rd, 2017:</b> Today we derived the rate of change of the pressure in a gas compression. We introduced some useful partial derivatives based on state relationships, namely the thermal expansion coefficient and the isothermal compressibility. We derived expressions for these relationships for an ideal gas.  
 </ul>
