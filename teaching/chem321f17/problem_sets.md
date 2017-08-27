@@ -30,3 +30,4 @@ Syllabus</a>
 
 ## Problem Sets ##
 - **Problem Set 1:** [Mathematics Review for Physical Chemistry]({{site.baseurl}}/teaching/chem321f17/problem_set_1.pdf) (Due Date: August 25th, 2017)
+- **Problem Set 2:** [Equations of State - Properties of Gases]({{site.baseurl}}/teaching/chem321f17/problem_set_1.pdf) (Due Date: September 1st, 2017)
