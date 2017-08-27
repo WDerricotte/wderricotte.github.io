@@ -31,3 +31,4 @@ ecap</a>
 
 ## Problem Sets ##
 - **Problem Set 1:** [Chemical Foundations: Uncertainty, Matter, Density, Temperature]({{site.baseurl}}/teaching/chem111f17/problem_set_1.pdf) (Due Date: August 25th, 2017)
+- **Problem Set 2:** [Atomic Structure: Isotopes, Ions, and Bonding]({{site.baseurl}}/teaching/chem111f17/problem_set_2.pdf) (Due Date: September 1st, 2017)
