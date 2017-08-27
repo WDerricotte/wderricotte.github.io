@@ -37,4 +37,5 @@ Syllabus</a>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Monday, January 21st, 2017:</b> Today we learned how to classify matter based on its physical and chemical properties. We reviewed the classic Thomson and Rutherford experiements that lead to our modern view of atomic structure.</li>
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, January 23rd, 2017:</b> Quiz day! Following the quiz we continued our discussion of modern atomic structure. We discussed ions and isotopes and practiced labeling these atoms properly and identifying the number of protons, neutrons, and electrons. We began to discuss chemical bonding and the important role that electrons play in this process.</li>
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Friday, January 25th, 2017:</b> Molecules are a collection of atoms...but how do they form? We discussed covalent and ionic bonding. The fundamental laws of chemistry were introduced with special attention to the Law of Multiple Proportions.</li>
 </ul> 
