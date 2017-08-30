@@ -42,5 +42,6 @@ Syllabus</a>
 
 ## Week 3 ##
 <ul class="fa-ul">
-  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Monday, August 28th, 2017:</b> Today we introduced the concept of the mole and its relation to Avogadros number. We practiced this concept by solving some dimensional analysis problems using this new dimension.
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Monday, August 28th, 2017:</b> Today we introduced the concept of the mole and its relation to Avogadros number. We practiced this concept by solving some dimensional analysis problems using this new dimension. </li>
+  <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, August 30th, 2017:</b> Quiz today covered atomic structure and the law of multiple proportions. (Hope you learned something about the thorium fuel cycle!) During the lecture we introduced molecular mass and began to use this in dimensional analysis problems.
 </ul>
