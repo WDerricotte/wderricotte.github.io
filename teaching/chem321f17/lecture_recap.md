@@ -43,4 +43,5 @@ Syllabus</a>
 <ul class="fa-ul">
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Monday, August 28th, 2017:</b> Today we looked at the compression factor (Z) for a van der Waals gas. We derived an expression in terms of the molar volume. Now we must derive an expression in terms of temperature and pressure. We will resume this derivation on Wednesday. </li>
   <li><i class="fa-li fa fa-calendar-check-o"></i><b>Wednesday, August 30th, 2017:</b> Today we finished the derivation of the compression factor for a van der Waals gas! We were able to make some profound statements about the behavior of the compression factor at low and high temperatures as a result. </li>
+<li><i class="fa-li fa fa-calendar-check-o"></i><b>Friday, Septermber 1st, 2017:</b> Today we introduced the virial expansion and the concept of the Boyle temperature. We also began looking at what occurs at a critical point along a PV-diagram and how these relationships can help us derive useful expressions for the van der Waals coefficients. </li>
 </ul>
