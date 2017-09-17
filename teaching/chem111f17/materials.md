@@ -33,7 +33,12 @@ Below are a copy of the lecture notes used in class. They are not intended to be
 - **Lecture Notes 1:** [Chemical Foundations]({{site.baseurl}}/teaching/chem111f17/chemical_foundations.pdf) 
 - **Lecture Notes 2:** [Atomic and Molecular Structure]({{site.baseurl}}/teaching/chem111f17/atomic_and_molecular_structure.pdf)
 - **Lecture Notes 3:** [Atomic Mass and The Mole]({{site.baseurl}}/teaching/chem111f17/atomic_mass_and_the_mole.pdf)
+- **Lecture Notes 4:** [Chemical Equations and Stoichiometry]({{site.baseurl}}/teaching/chem111f17/chemical_equations_stoichiometry.pdf)
+- **Lecture Notes 5:** [Stoichiometric Practice]({{site.baseurl}}/teaching/chem111f17/stoichiometric_practice.pdf)
+- **Lecture Notes 6:** [Limiting Reactants]({{site.baseurl}}/teaching/chem111f17/limiting_reagents_and_percent_yield.pdf)
+- **Lecture Notes 7:** [Percent Yield]({{site.baseurl}}/teaching/chem111f17/percent_yield.pdf)
 
 ## Quizzes ##
 Copies of all quizzes
-- **Quiz 1:** [Temperature and Dimensional Analysis]({{site.baseurl}}/teaching/chem111f17/quiz1.pdf) 
+- **Quiz 1:** [Temperature and Dimensional Analysis]({{site.baseurl}}/teaching/chem111f17/quiz1.pdf)
+- **Quiz 2:** [Isotopes and Law of Multiple Proportions]({{site.baseurl}}/teaching/chem111f17/quiz2.pdf)- **Quiz 3:** [Molecular and Empirical Formulas]({{site.baseurl}}/teaching/chem111f17/quiz3.pdf) 
