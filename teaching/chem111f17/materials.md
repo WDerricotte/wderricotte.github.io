@@ -41,4 +41,5 @@ Below are a copy of the lecture notes used in class. They are not intended to be
 ## Quizzes ##
 Copies of all quizzes
 - **Quiz 1:** [Temperature and Dimensional Analysis]({{site.baseurl}}/teaching/chem111f17/quiz1.pdf)
-- **Quiz 2:** [Isotopes and Law of Multiple Proportions]({{site.baseurl}}/teaching/chem111f17/quiz2.pdf)- **Quiz 3:** [Molecular and Empirical Formulas]({{site.baseurl}}/teaching/chem111f17/quiz3.pdf) 
+- **Quiz 2:** [Isotopes and Law of Multiple Proportions]({{site.baseurl}}/teaching/chem111f17/quiz2.pdf)
+- **Quiz 3:** [Molecular/Empirical Formulas]({{site.baseurl}}/teaching/chem111f17/quiz3.pdf) 
