@@ -19,6 +19,6 @@ Although the development of quantum chemistry methods involves extensive knowled
 
 <font size="5">News</font>
 <ul>
-  <li>August 18th, 2017 - Wallace will be serving as a poster judge for the <a href="https://www.eventbrite.com/e/morehouse-college-fall-stem-symposium-tickets-36670412190?utm_campaign=new_attendee&utm_medium=email&utm_source=eb_email&utm_term=event_name">2017 Morehouse College STEM Symposium</a> </li>
+  <li>August 18th, 2017. - Wallace will be serving as a poster judge for the <a href="https://www.eventbrite.com/e/morehouse-college-fall-stem-symposium-tickets-36670412190?utm_campaign=new_attendee&utm_medium=email&utm_source=eb_email&utm_term=event_name">2017 Morehouse College STEM Symposium</a> </li>
   <li>July 18th, 2017 - Wallace gave a poster presentation at the American Conference on Theoretical Chemistry at Boston University entitled &quot;Localized Intrinsic Valence Virtual Orbitals for the Automated Classification of Core-Excited States&quot;</li>
 </ul>
