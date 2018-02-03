@@ -19,6 +19,9 @@ Although the development of quantum chemistry methods involves extensive knowled
 
 <font size="5">News</font>
 <ul>
+  <li>December 11th, 2017 - Our paper on Mapping 3D orientation of piconewton integrin traction forces was accepted for publication in Nature Methods! This project was a collaboration with the <a href="https://www.salaitalab.com/">Saliata Lab</a> at Emory University</li>
+  <li>November 10th, 2017 - Our paper on Localized Intrinsic Valence Virtual Orbitals was accepted in the Journal of Computational and Theoretical.</li>
+  <li>November 3rd, 2017 - Saul Ashley joins the Derricotte Research Group, Welcome to Saul!</li>
   <li>August 18th, 2017. - Wallace will be serving as a poster judge for the <a href="https://www.eventbrite.com/e/morehouse-college-fall-stem-symposium-tickets-36670412190?utm_campaign=new_attendee&utm_medium=email&utm_source=eb_email&utm_term=event_name">2017 Morehouse College STEM Symposium</a> </li>
   <li>July 18th, 2017 - Wallace gave a poster presentation at the American Conference on Theoretical Chemistry at Boston University entitled &quot;Localized Intrinsic Valence Virtual Orbitals for the Automated Classification of Core-Excited States&quot;</li>
 </ul>

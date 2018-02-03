@@ -1,5 +1,5 @@
 ---
-title: Scholarship
+title: Publications
 author: Wallace Derricotte
 layout: default
 ---
@@ -10,29 +10,24 @@ layout: default
   <li class="active">{{ page.title }}</li>
 </ol>
 
-My primary research interest is the study of electronic excited states in molecular systems. More specif
-ically, I use computational quantum chemistry methods to investigate the properties of electronic excita
-tions. My early work was focused on developing time-independent density functional theory approaches for
- computation of high energy core excited states relevant for X-ray absorption spectroscopy. More recentl
-y, my research has expanded to developing new orbital representations to study the character of virtual
-orbitals in quantum chemistry calculations.
+## Journal Articles
 
-Although the development of quantum chemistry methods involves extensive knowledge of quantum mechanics,
- applying and analyzing the results of such calculations are accesible to any chemistry student. Thus my
- research lends itself well to incorporating undergraduate students of all levels. Due to the interdisci
-plinary nature of quantum chemistry research students of math, physics, or even computer science may als
-o be interested. If these types of problems spark your curiosity and you wish to undertake a research pr
-oject with me, please stop by my office to let me know you are interested.
-
-
-## Submitted Papers
-  * W.D. Derricotte and F.A. Evangelista. Localized Intrinsic Valence Virtual Orbitals for the Automated Interpretation of Core Excited States. Submitted to *J. Chem. Theory Comput.*.
-  * J.M. Brockman, A.T. Blanchard, V. Ma, W.D. Derricotte, Y. Zhang, W.A. Lam, F.A. Evangelista, K. Salaita, A.L. Mattheyses. Mapping the 3D Orientation of Piconewton Integrin Traction Forces Submitted to *Nature Med.*
-
-## Published Research
-  * W.D. Derricotte. Development and Applications of Orthogonality Constrained Density Functional Theory for the Accurate Simulation of X-Ray Absorption Spectroscopy. PhD Thesis. Emory University 2017.
-  * P. Verma, W.D. Derricotte, F.A. Evangelista. Predicting Near Edge X-ray Absorption Spectra with the Spin-Free Exact-Two-Component Hamiltonian and Orthogonality Constrained Density Functional Theory. *J. Chem. Theory Comput.* 12, 144. 2016
-  * W.D. Derricotte and F.A. Evangelista. Simulation of X-Ray Absorption Spectra with Orthogonality Constrained Density Functional Theory. *Phys. Chem. Chem. Phys.* 17, 14360. 2015
-
-## In Preparation
-  * W.D. Derricotte and F.A. Evangelista. A Maximum Subspace Occupation Approach for the Study of the NEXAFS Spectra of Chemisorbed Organic Molecules Using Orthogonality Constrined Density Functional Theory: Pyrazine on Si(100) a Case Study
+<ol>
+  <li> <a href="https://www.nature.com/articles/nmeth.4536">Mapping the 3D Orientation of Piconewton Integrin Traction Forces,</a> J.M. Brockman, A.T. Blanchard, V. Ma, W.D. Derricotte, Y. Zhang, W.A. Lam, F.A. Evangelista, K. Salaita, A.L. Mattheyses. <b>Nature Methods</b> 15, 115. 2018</li><br>
+<div style="display: flex; justify-content: center;">
+<img src="{{ site.baseurl }}/images/mapping_forces.png" align= "middle" style="width:500px;height:150px;"/>
+</div>
+<br>
+  <li> <a href ="http://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00493"> Localized Intrinsic Valence Virtual Orbitals for the Automated Interpretation of Core Excited States,</a> W.D. Derricotte and F.A. Evangelista. <b>J. Chem. Theory Comput.</b> 13, 5984. 2017</li>
+<div style="display: flex; justify-content: center;">
+<img src="{{ site.baseurl }}/images/livvos.png" align= "middle" style="width:500px;height:200px;"/>
+</div>
+<br>
+  <li> <a href="https://legacy-etd.library.emory.edu/view/record/pid/emory%3As3kc8">Development and Applications of Orthogonality Constrained Density Functional Theory for the Accurate Simulation of X-Ray Absorption Spectroscopy,</a> W.D. Derricotte. <b>PhD Thesis. Emory University</b> 2017.</li>
+  <li> <a href="http://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00817">Predicting Near Edge X-ray Absorption Spectra with the Spin-Free Exact-Two-Component Hamiltonian and Orthogonality Constrained Density Functional Theory.</a> P. Verma, W.D. Derricotte, F.A. Evangelista. <b>J. Chem. Theory Comput.</b> 12, 144. 2016 </li><br>
+<div style="display: flex; justify-content: center;">
+<img src="{{ site.baseurl }}/images/x2c_ocdft.gif" align= "middle" style="width:500px;height:200px;"/>
+</div>
+<br>
+  <li> <a href="http://pubs.rsc.org/-/content/articlelanding/2015/cp/c4cp05509h/unauth#!divAbstract">Simulation of X-Ray Absorption Spectra with Orthogonality Constrained Density Functional Theory.</a> W.D. Derricotte and F.A. Evangelista. <b>Phys. Chem. Chem. Phys.</b> 17, 14360. 2015</li>
+</ol>

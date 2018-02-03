@@ -18,6 +18,8 @@ layout: default
 <b>Future Aspirations:</b> To use my computational chemistry expertise to progress the science of organic electronics forward and inspire a generation of young scientists who have a full appreciation for how interconnected chemistry, physics, and mathematics truly are. I plan to use science as a vehicle to help uplift my community and my people, to reach back and help young kids realize their dreams through strong ethical leadership. <br> <br> <br> <br> <br> 
 
 <font size="5">Students</font>
+<img src="{{ site.baseurl }}/images/saul_ashley.jpg" align= "left" style="width:200px;height:200px
+;"/>
 <b>Name:</b> Saul Ashley<br>
 <b>Classification:</b> Sophomore <br>
 <b>Major:</b> Dual-Degree Biology/Bio-Medical Engineering <br>
