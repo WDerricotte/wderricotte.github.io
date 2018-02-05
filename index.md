@@ -17,7 +17,7 @@ We are a new computational chemistry group in the <a href="http://www.morehouse.
 
 Although the development of quantum chemistry methods involves extensive knowledge of quantum mechanics, applying and analyzing the results of such calculations are accesible to any student of the physical sciences. Thus our research lends itself well to incorporating undergraduate students of all levels. Due to the interdisciplinary nature of quantum chemistry research students of math, physics, or even computer science may also be interested. Please check back here for updates on our group and research. Highly motivated students are encourages to contact Dr. Derricotte if they are interested in pursuing an undergraduate research project. 
 
-<font size="10">News</font>
+<font size="5">News</font>
 <ul>
   <li>December 11th, 2017 - Our paper on Mapping 3D orientation of piconewton integrin traction forces was accepted for publication in Nature Methods! This project was a collaboration with the <a href="https://www.salaitalab.com/">Saliata Lab</a> at Emory University</li>
   <li>November 10th, 2017 - Our paper on Localized Intrinsic Valence Virtual Orbitals was accepted in the Journal of Computational and Theoretical.</li>
