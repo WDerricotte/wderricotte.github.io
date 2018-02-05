@@ -17,8 +17,8 @@ Monday 1:00PM - 4:00PM Merrill Hall Room 343
 ## Current Courses ##
 Here are the courses that I am currently teaching (Spring 2018) at [Morehouse College](http://morehouse.edu
 ).
-- [CHEM 111: Elementary Inorganic Chemistry II]({{ site.baseurl }}/teaching/chem112s18)
-- [CHEM 321: Elementary Physical Chemistry II: Quantum Chemistry and Spectroscopy]({{ site.baseurl }}/teaching/chem322s18)
+- [CHEM 112: Elementary Inorganic Chemistry II]({{ site.baseurl }}/teaching/chem112s18)
+- [CHEM 322: Elementary Physical Chemistry II: Quantum Chemistry and Spectroscopy]({{ site.baseurl }}/teaching/chem322s18)
 
 
 ## Past Courses ##
