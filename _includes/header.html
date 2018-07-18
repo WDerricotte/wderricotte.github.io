@@ -1,98 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
+{% if page.title == "Home"
+   or page.title == "Blog"
+   or page.title == "Research"
+   or page.title == "Projects"
+%}{% assign showHeader = true %}{% endif %}
 
-<head>
+{% if showHeader == true %}
+    <header class="header-home {% if site.animation %}animated{% endif %}">
+        {% if site.about %}
+            <a class="link" href="{{ site.url }}/about">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </a>
+        {% else %}
+            <span class="link">
+                <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+            </span>
+        {% endif %}
 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ site.description }}">
-<meta name="author" content="Derricotte Research Group">
+        <h1 class="title">{{ site.name }}</h1>
+        <h2 class="description">{{ site.bio }}</h2>
 
-<!--<link rel="icon" href="../../favicon.ico">-->
+        {% include social-links.html %}
+    </header>
+{% endif %}
 
-<title>{{ site.name }}</title>
-
-<!-- Bootstrap core CSS -->
-<!-- <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet"> -->
-<link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet">
-
-<!-- Custom styles for this template -->
-<link href="{{ site.baseurl }}/css/sticky-footer-navbar.css" rel="stylesheet">
-<link href="{{ site.baseurl }}/css/extra.css" rel="stylesheet">
-<link rel="stylesheet" href="/css/css/academicons.css"/>
-
-<!-- stylesheet for pygments to work -->
-<link href="{{ site.baseurl }}/css/pygments.css" rel="stylesheet">
-
-<!-- MathJax -->
-<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
-       <script type="text/x-mathjax-config">
-         MathJax.Hub.Config({
-           tex2jax: {
-             inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-             processEscapes: true
-           }
-         });
-       </script>
-       <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-<!-- Font Awesome -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
-
-<!-- SageCell -->
-<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
-<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-
-<!-- Feed Stuff -->
-{% feed_meta %}
-{% seo %}
-</head>
-
-<body>
-
-<!-- Fixed navbar -->
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-<div class="container">
-
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="{{ site.baseurl }}/">Derricotte Research Group</a>
-</div>
-
-<div class="collapse navbar-collapse">
-<ul class="nav navbar-nav">
-
-<li><a href="{{ site.baseurl }}/people/">People</a></li>
-
-<li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
-
-<li><a href="{{ site.baseurl }}/teaching/">Teaching</a></li>
-
-<li><a href="{{ site.baseurl }}/scholarship/">Publications</a></li>
-
-<li><a href="{{ site.baseurl }}/research/">Research</a></li>
-
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span class="caret"></span></a>
-<ul class="dropdown-menu" role="menu">
-<!-- <li><a href="{{ site.baseurl }}/resources/">Resources Overview</a></li> -->
-<li><a href="{{ site.baseurl }}/resources/teaching-resources">Teaching Resources</a></li>
-<li><a href="{{ site.baseurl }}/resources/free-and-open-source-textbooks">Free and Open-Source Textbooks</a></li>
-<li><a href="{{ site.baseurl }}/resources/inquiry-based-learning">Inquiry-Based Learning</a></li>
-<li><a href="{{ site.baseurl }}/resources/quick-latex-guide">Quick LaTeX Guide</a></li>
-</ul>
-</li>
-
-<!-- <li><a href="{{ site.baseurl }}/about/">About</a></li> -->
-
-<!-- <li><a href="http://maamathedmatters.blogspot.com">Math Ed Matters</a></li> -->
-
-</ul>
-</div><!--/.nav-collapse -->
-</div>
-</div>
+{% include nav.html %}
