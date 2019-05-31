@@ -1,10 +1,10 @@
 
-http://localhost:4000/much-worse-jekyll-theme/blog/
-http://localhost:4000/much-worse-jekyll-theme/cv/
-http://localhost:4000/much-worse-jekyll-theme/feed.xml
-http://localhost:4000/much-worse-jekyll-theme/
-http://localhost:4000/much-worse-jekyll-theme/css/main.css
-http://localhost:4000/much-worse-jekyll-theme/people/
-http://localhost:4000/much-worse-jekyll-theme/research/
-http://localhost:4000/much-worse-jekyll-theme/sitemap.txt
+http://localhost:4000/index.html/blog/
+http://localhost:4000/index.html/cv/
+http://localhost:4000/index.html/feed.xml
+http://localhost:4000/index.html/
+http://localhost:4000/index.html/css/main.css
+http://localhost:4000/index.html/people/
+http://localhost:4000/index.html/research/
+http://localhost:4000/index.html/sitemap.txt
 
