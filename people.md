@@ -4,7 +4,7 @@ title: Group Members
 permalink: /people/
 ---
 
-{% include image.html url="/images/wderricotte.jpg" caption="" width="250px" align="left" %} **Name**: Wallace D. Derricotte, PhD  
+{% include image.html url="../images/wderricotte.jpg" caption="" width="250px" align="left" %} **Name**: Wallace D. Derricotte, PhD  
 **Title**: Assistant Professor  
 **Education**: PhD in Computational Chemistry (Emory University 2017)  
                B.S. in Chemistry (Morehouse College 2013)  
@@ -32,6 +32,6 @@ permalink: /people/
 &nbsp;
 
 ## Group Alumni
-{% include image.html url="/much-worse-jekyll-theme/images/mberry.jpg" caption="" width="250px" align="left" %}**Name**: Malachi Berry  
+{% include image.html url="/images/mberry.jpg" caption="" width="250px" align="left" %}**Name**: Malachi Berry  
 **Current Position**: Masters Student in Physical Chemistry at Howard University
 **Education**: B.S. in Chemistry (Morehouse College 2019)
