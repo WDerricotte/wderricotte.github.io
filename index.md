@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
-Research in the Derricotte Group is motivated by a fascination with the non-covalent interactions that drive chemical reactions. We develop and utilize computer software to model reactions and gain insight into their mechanisms.  
+->Research in the Derricotte Group is motivated by a fascination with the non-covalent interactions that drive chemical reactions. We develop and utilize computer software to model reactions and gain insight into their mechanisms.<- 
  
 ## Group News
 * April 5th, 2019 - We have received federal funding from the National Science Foundation for our project entitled "A Symmetry-Adapted Perturbation Theory Approach to Reaction Force Analysis". 
