@@ -17,7 +17,8 @@ ns. Highly motivated undergraduate students in the Atlanta University Center who
 Our group is interested in studying reaction mechanisms and characterizing the **noncovalent interactions** that occur throughout the reaction between interacting molecules. We approach this by utilizing **symmetry-adapted perturbation theory** on structures throughout the reaction coordinate to characterize the electrostatic, exchange, induction, and dispersion interactions throughout the mechanism. 
 
 ## Energy Derivatives and Reaction Force Analysis
-{% include image.html url="../images/layout_method.png" caption="" width="800px" align="center" %}
+{% include image.html url="../images/layout_method.png" caption="" width="800px" align="center" %}  
+To investigate chemical reactions, we utilize an approach known as **reaction force analysis**, the reaction force is defined as the negative gradient of the energy with respect to the reaction coordinate. Using this approach it is possible for us to parition the reaction coordinate into distinct regions to isolate where different mechanisms are occuring. 
 
 ## Open-Source Quantum Chemistry Software Development
-{% include image.html url="../images/pyrex_logo_2019.png" caption="" width="500px" align="left" %}
+{% include image.html url="../images/pyrex_logo_2019.png" caption="" width="300px" align="left" %} 
