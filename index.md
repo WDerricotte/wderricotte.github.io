@@ -4,9 +4,8 @@ title:
 permalink: /
 ---
 
-{% include image.html url="images/DRG_logo_2019.png" caption="" width="1200px" align="center" %}
-
-We are a research group in computational quantum chemistry at Morehouse College in Atlanta, GA. Our brand of chemistry research may differ drastically from what you might envision a chemists does. Rather than don a chrisp white lab coat and rush into a lab mixing dangerous chemicals together, we stay safe behind the comfort of our computers writing algorithms and running calculations to better understand the physical nature of chemistry. Specifically, my group is interested in reaction mechanisms and better understanding how fundamental molecular forces help to drive chemical reactions. Highly motivated undergraduate students in the Atlanta University Center who are interested in doing research with us, are encouraged to contact Dr. Derricotte. 
+{% include image.html url="images/DRG_logo_2019.png" caption="" width="1200px" align="center" %}  
+ 
 ## Group News
 * April 5th, 2019 - We have received federal funding from the National Science Foundation for our project entitled "A Symmetry-Adapted Perturbation Theory Approach to Reaction Force Analysis". 
 * September 8th, 2018 - Dr. Derricotte gave an invited talk at the 1st annual Atlanta Symposium on Theoretical and Computational Chemistry at Emory University. Thanks for hosting us!
