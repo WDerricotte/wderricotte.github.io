@@ -4,4 +4,16 @@ permalink: /contact/
 title: Contact
 ---
 
-## Under Construction
+**Dr. Wallace D. Derricotte**  
+Assistant Professor  
+Department of Chemistry  
+Morehouse College  
+820 Westview Dr. SW  
+Atlanta, GA 30314  
+&nbsp;
+
+&nbsp;
+
+**office:**Merrill Hall Room 343  
+**e-mail:**wallace.derricotte@morehouse.edu  
+**phone:**(470) 639-0394
