@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computational Chemistry at Morehouse College
+title: 
 permalink: /
 ---
 
