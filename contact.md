@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /contact/
+title: Contact
 ---
 
 ## Under Construction
