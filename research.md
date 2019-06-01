@@ -10,4 +10,13 @@ We are a research group in computational quantum chemistry at Morehouse College 
 orithms and running calculations to better understand the physical nature of chemistry. Specifically, my group is inte
 rested in reaction mechanisms and better understanding how fundamental molecular forces help to drive chemical reactio
 ns. Highly motivated undergraduate students in the Atlanta University Center who are interested in doing research with
- us, are encouraged to contact Dr. Derricotte.
+ us, are encouraged to contact Dr. Derricotte directly. Check out our current research areas and see if you're interested:
+
+## Noncovalent Interactions in Reaction Mechanisms
+{% include image.html url="images/all_struct.png" caption="" width="500px" align="center" %}  
+Our group is interested in studying reaction mechanisms and characterizing the **noncovalent interactions** that occur throughout the reaction between interacting molecules. We approach this by utilizing **symmetry-adapted perturbation theory** on structures throughout the reaction coordinate to characterize the electrostatic, exchange, induction, and dispersion interactions throughout the mechanism. 
+
+## Energy Derivatives and Reaction Force Analysis
+
+
+## Open-Source Quantum Chemistry Software Development

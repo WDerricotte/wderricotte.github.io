@@ -36,7 +36,7 @@ pubs:
 
 ---
 
-## Publications (peer reviewed)
+## Publications
 {% assign thumbnail="left" %}
 
 {% for pub in page.pubs %}
