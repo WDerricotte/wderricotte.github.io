@@ -7,6 +7,10 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* June 1st, 2019 - Senior Chemistry student Marquell Cole joins the lab this summer through the McNair scholars program, welcome Marquell!
+* May 1st, 2019 - The Morehouse Chemistry Department had its annual Lab Coat Ceremony today! Congratulations to our r
+ising seniors!
+{% include image.html url="images/lab_coat_ceremony_2019.jpg" caption="" width="500px" align="center" %}
 * April 5th, 2019 - We have received federal funding from the National Science Foundation for our project entitled "A Symmetry-Adapted Perturbation Theory Approach to Reaction Force Analysis". 
 * September 8th, 2018 - Dr. Derricotte gave an invited talk at the 1st annual Atlanta Symposium on Theoretical and Computational Chemistry at Emory University. Thanks for hosting us!
 {% include image.html url="images/atl_theory_crop.jpg" caption="" width="500px" align="center" %}
