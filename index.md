@@ -4,10 +4,7 @@ title:
 permalink: /
 ---
 
-{% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}   
-
-## Home
-We are a research group in theoretical/computational chemistry at Morehouse College in Atlanta, GA. Research in our group is focused on developing and applying quantum chemistry software to study noncovalent interactions that drive chemical reactions.
+{% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
 * April 5th, 2019 - We have received federal funding from the National Science Foundation for our project entitled "A Symmetry-Adapted Perturbation Theory Approach to Reaction Force Analysis". 
