@@ -12,8 +12,6 @@ Morehouse College
 Atlanta, GA 30314  
 &nbsp;
 
-&nbsp;
-
 **office:**Merrill Hall Room 343  
 **e-mail:**wallace.derricotte@morehouse.edu  
 **phone:**(470) 639-0394
