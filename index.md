@@ -4,11 +4,12 @@ title:
 permalink: /
 ---
 
-{% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
+{% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}   
 
-->Research in the Derricotte Group is motivated by a fascination with the non-covalent interactions that drive chemical reactions. We develop and utilize computer software to model reactions and gain insight into their mechanisms.<- 
- 
-## Group News
+## Home
+We are a research group in theoretical/computational chemistry at Morehouse College in Atlanta, GA. Research in our group is focused on developing and applying quantum chemistry software to study noncovalent interactions that drive chemical reactions.
+
+## News
 * April 5th, 2019 - We have received federal funding from the National Science Foundation for our project entitled "A Symmetry-Adapted Perturbation Theory Approach to Reaction Force Analysis". 
 * September 8th, 2018 - Dr. Derricotte gave an invited talk at the 1st annual Atlanta Symposium on Theoretical and Computational Chemistry at Emory University. Thanks for hosting us!
 {% include image.html url="images/atl_theory_crop.jpg" caption="" width="500px" align="center" %}
