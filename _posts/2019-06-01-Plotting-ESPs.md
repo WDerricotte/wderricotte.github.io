@@ -3,7 +3,7 @@ layout: post
 title: "Plotting Molecular Electrostatic Potential Maps in IQmol"
 description: "An example calculation on pyridine using PSI4 and IQmol"
 categories: ["computational", "chemistry", "tutorial", "electrostatic", "potential", "PSI4", "IQmol"]
-location: "Galaxy far far away"
+location: "Author: Wallace D. Derricotte"
 ---
 
 Undoubtedly any student of chemistry is familiar with molecular electrostatic potential (ESP) plots, the colorful diagrams that litter organic chemistry textbooks showing the distribution of charge in a molecule. These diagrams are extremely useful for predicting likely sites of electrophilic and nucleophilic attack in reaction mechanisms. 
