@@ -5,8 +5,14 @@ description: "An example calculation on pyridine using PSI4 and IQmol"
 categories: ["computational", "chemistry", "tutorial", "electrostatic", "potential", "PSI4", "IQmol"]
 location: "Author: Wallace D. Derricotte"
 ---
+  <!-- mathjax -->
+  <script type="text/javascript" async
+  src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
 
 Undoubtedly any student of chemistry is familiar with molecular electrostatic potential (ESP) plots, the colorful diagrams that litter organic chemistry textbooks showing the distribution of charge in a molecule. These diagrams are extremely useful for predicting likely sites of electrophilic and nucleophilic attack in reaction mechanisms. 
+
+<center> $$R_{\rm opt} = (R_{n_1-n_2} + 2R_{n_1=n_2})/3$$ </center>
 
 This blog post will focus on how to calculate the ESP in PSI4 and render electrostatic potential maps in IQmol. For this example we will produce an ESP plot for pyridine. The first place to begin is to obtained an optimized geometry, well use a modest level of theory using MP2/6-31G(d). Once you have an optimized structure, you can make use of a utility called cubeprop in PSI4 that produces cube files of various properties such as the electrostatic potential, orbitals, densities, etc. The input file I used for this calculation is shown below.
 
