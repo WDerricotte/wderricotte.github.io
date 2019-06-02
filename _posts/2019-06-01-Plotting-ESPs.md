@@ -10,4 +10,4 @@ Undoubtedly any student of chemistry is familiar with molecular electrostatic po
 
 This blog post will focus on how to calculate the ESP in PSI4 and render electrostatic potential maps in IQmol. For this example we will produce an ESP plot for pyridine. The first place to begin is to obtained an optimized geometry, well use a modest level of theory using MP2/6-31G(d). Once you have an optimized structure, you can make use of a utility called cubeprop in PSI4 that produces cube files of various properties such as the electrostatic potential, orbitals, densities, etc. The input file I used for this calculation is shown below.
 
-
+{% include image.html url="../images/psi4_inp.PNG" caption="" width="600px" align="center" %}
