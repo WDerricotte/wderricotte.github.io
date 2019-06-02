@@ -1,10 +1,8 @@
 ---
 layout: page
-title: BlogX
+title: DRG Blog
 permalink: /blog/
 ---
-
-**Under Construction**
 
 <ul class="listing">
 {% for post in site.posts %}
