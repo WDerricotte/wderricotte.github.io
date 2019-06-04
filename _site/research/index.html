@@ -6,12 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Derricotte Research Group :: Research</title>
-    <meta name="description" content="Much-Worse Jekyll theme for academic page and blog">
+    <title>DRG :: Research</title>
+    <meta name="description" content="Derricotte Research Group">
 
     <link rel="stylesheet" href="/css/main.css">
     <link rel="canonical" href="http://localhost:4000/research/">
-    <link rel="alternate" type="application/rss+xml" title="Derricotte Research Group" href="http://localhost:4000/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="DRG" href="http://localhost:4000/feed.xml" />
 
     <link href='https://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
 </head>
@@ -20,7 +20,7 @@
   <body>
   <div class="page">
     <header class="site-header">
-    <a class="site-title" href="/">Derricotte Research Group</a>
+    <a class="site-title" href="/">DRG</a>
     <nav class="site-nav">
         <a href="#" class="menu-icon menu.open">
             <svg viewBox="0 0 18 15">
@@ -33,12 +33,27 @@
             <ul class="menu">
     
     
+     <li><a href="/contact/" class="page-link">Contact</a>
+    
+    </li>
+    
+    
      <li><a href="/research/" class="page-link">Research</a>
     
     </li>
     
     
+     <li><a href="/publications/" class="page-link">Publications</a>
+    
+    </li>
+    
+    
      <li><a href="/people/" class="page-link">People</a>
+    
+    </li>
+    
+    
+     <li><a href="/openings/" class="page-link">Openings</a>
     
     </li>
     
@@ -59,43 +74,53 @@
         <h1>Research</h1>
     </header>
 
-    <h2 id="publications-peer-reviewed">Publications (peer reviewed)</h2>
+    <p>We are a research group in computational quantum chemistry at Morehouse College in Atlanta, GA. Our brand of chemistry
+ research may differ drastically from what you might envision a chemists does. Rather than don a chrisp white lab coat
+ and rush into a lab mixing dangerous chemicals together, we stay safe behind the comfort of our computers writing alg
+orithms and running calculations to better understand the physical nature of chemistry. Specifically, my group is inte
+rested in reaction mechanisms and better understanding how fundamental molecular forces help to drive chemical reactio
+ns. Highly motivated undergraduate students in the Atlanta University Center who are interested in doing research with
+ us, are encouraged to contact Dr. Derricotte directly. Check out our current research areas and see if you’re interested:</p>
 
-<p><a href="https://www.nature.com/articles/nmeth.4536"><strong>Mapping the 3D Orientation of Piconewton Integrin Traction Forces</strong></a><br />
-J. Brockman, A. Blanchard, V. Ma, W. Derricotte, Y. Zhang, W. Lam, F. Evangelista, K. Salaita, A. Mattheyses<br />
-<em>Nature Methods</em>
- <em>2018</em></p>
+<h2 id="noncovalent-interactions-in-reaction-mechanisms">Noncovalent Interactions in Reaction Mechanisms</h2>
+<div class="captioned-img aligncenter">
+    <a href="../images/all_struct.png">
+    
+    <img src="../images/all_struct.png" width="800px" />
+    </a>
+</div>
 
-<p><a href="https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00493"><strong>Localized Intrinsic Valence Virtual Orbitals for the Automated Interpretation of Core Excited States</strong></a><br />
-W. Derricotte and F. Evangelista<br />
-<em>Journal of Chemical Theory and Computation</em>
- <em>2017</em></p>
+<p>Our group is interested in studying reaction mechanisms and characterizing the <strong>noncovalent interactions</strong> that occur throughout the reaction between interacting molecules. We approach this by utilizing <strong>symmetry-adapted perturbation theory</strong> on structures throughout the reaction coordinate to characterize the electrostatic, exchange, induction, and dispersion interactions throughout the mechanism.</p>
 
-<p><a href="https://etd.library.emory.edu/concern/etds/fj236288r?locale=en"><strong>Development and Applications of Orthogonality Constrained Density Functional Theory for the Accurate Simulation of X-Ray Absorption Spectroscopy</strong></a><br />
-W. Derricotte<br />
-<em>PhD Thesis Emory University</em>
- <em>2017</em></p>
+<h2 id="activation-strain-and-reaction-force-analysis">Activation Strain and Reaction Force Analysis</h2>
+<div class="captioned-img aligncenter">
+    <a href="../images/layout_method.png">
+    
+    <img src="../images/layout_method.png" width="800px" />
+    </a>
+</div>
 
-<p><a href="https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00817"><strong>Predicting Near Edge X-ray Absorption Spectra with the Spin-Free Exact-Two-Component Hamiltonian and Orthogonality Constrained Density Functional Theory.</strong></a><br />
-P. Verma, W. Derricotte, F. Evangelista<br />
-<em>Journal of Chemical Theory and Computation</em>
- <em>2016</em></p>
+<p>To investigate chemical reactions, we utilize two approaches known as <strong>reaction force analysis</strong> and the <strong>activation strain model</strong>. The reaction force is defined as the negative gradient of the energy with respect to the reaction coordinate. Using this approach it is possible for us to parition the reaction coordinate into distinct regions to isolate where different mechanisms are occuring. The activation strain model decomposes the reaction energy into contributions from geometric strain and electronic interaction.</p>
 
-<p><a href="https://pubs.rsc.org/en/content/articlelanding/2015/CP/C4CP05509H#!divAbstract"><strong>Simulation of X-Ray Absorption Spectra with Orthogonality Constrained Density Functional Theory.</strong></a><br />
-W. Derricotte and F. Evangelista<br />
-<em>Physical Chemistry Chemical Physics</em>
- <em>2015</em></p>
+<h2 id="open-source-quantum-chemistry-software-development">Open-Source Quantum Chemistry Software Development</h2>
+<div class="captioned-img alignleft">
+    <a href="../images/pyrex_logo_2019.png">
+    
+    <img src="../images/pyrex_logo_2019.png" width="200px" />
+    </a>
+</div>
 
+<p>All methods developed in our group are implemented in pyREX (Python Reaction Energy eXtension), a standalone open-source Python code for <strong>reaction force analysis</strong> of chemical reactions. pyREX is interfaced with the popular quantum chemistry packages PSI4 and pySCF.</p>
 
 </div>
 
 
     <footer class="site-footer">
-    Much-Worse Jekyll theme for academic page and blog<br />
+    Derricotte Research Group<br />
 
     Using <a href="http://jekyllrb.com/">Jekyll</a>
     
-     :: <a href="https://github.com/gchauras/much-worse-jekyll-theme">Website source</a>
+     :: <a href="https://github.com/WDerricotte/WDerricotte.github.io">Website source</a>
     
     
 </footer>
