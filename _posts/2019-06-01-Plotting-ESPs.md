@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plotting Molecular Electrostatic Potential Maps in IQmol"
+title: "Tutorial:Plotting Molecular Electrostatic Potential Maps in IQmol"
 description: "An example calculation on pyridine using PSI4 and IQmol"
 categories: ["computational", "chemistry", "tutorial", "electrostatic", "potential", "PSI4", "IQmol"]
 location: "Author: Wallace D. Derricotte"
