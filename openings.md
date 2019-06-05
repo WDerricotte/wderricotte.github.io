@@ -13,4 +13,6 @@ We are always looking to add highly motivated undergraduate students to our rese
 * Applicant must be willing to work 5 - 10 hours per week.
 
 ## Application for Undergraduate Research Assistants
-If you meet the eligibility requirements above, are interested in our research, and looking for research experience, please fill out our [Research Assistant Application](https://docs.google.com/forms/d/e/1FAIpQLScJuBRd-YTUQCNpyaD2X-PpqO2uhhuToKGv98hfDqTs_mmXsw/viewform?usp=sf_link). Applications will be continously reviewed on a rolling basis with a potential interview/meeting to follow the receipt of your application. Even if no positions are available for the current semester, please apply as positions may open up for the following semester. 
+If you meet the eligibility requirements above, are interested in our research, and looking for research experience, please fill out our [Research Assistant Application](https://docs.google.com/forms/d/e/1FAIpQLScJuBRd-YTUQCNpyaD2X-PpqO2uhhuToKGv98hfDqTs_mmXsw/viewform?usp=sf_link). Applications will be continously reviewed on a rolling basis with a potential interview/meeting to follow the receipt of your application. Even if no positions are available for the current semester, please apply as positions may open up for the following semester.
+
+{% include image.html url="../images/drg_flyer.png" caption="" width="500px" align="center" %} 
