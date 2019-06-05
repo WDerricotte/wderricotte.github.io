@@ -7,7 +7,7 @@ permalink: /openings/
 We are always looking to add highly motivated undergraduate students to our research team. Please see more information on how to apply below:
 
 ## Rules and Eligibility
-* Applicant must be an undergraduate student at Morehouse, Spelman, of Clark Atlanta University  with a cumulative 3.0 GPA or higher. (Exceptions may be made for students with a Math/Science GPA that is significantly higher than their cumulative)
+* Applicant must be an undergraduate student at Morehouse, Spelman, or Clark Atlanta University  with a cumulative 3.0 GPA or higher. (Exceptions may be made for students with a Math/Science GPA that is significantly higher than their cumulative)
 * Applicant must be majoring in Chemistry, Physics, Mathematics, Computer Science, or Biology. 
 * Applicant must be a full-time student.
 * Applicant must be willing to work 5 - 10 hours per week.
