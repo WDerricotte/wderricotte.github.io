@@ -32,6 +32,6 @@ permalink: /people/
 &nbsp;
 
 ## Group Alumni
-{% include image.html url="../images/mberry.jpg" caption="" width="250px" align="left" %}**Name**: Malachi Berry  
-**Current Position**: Masters Student in Physical Chemistry at Howard University  
+{% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
+**Current Position**: Masters Student in Atomspheric Science at Howard University  
 **Education**: B.S. in Chemistry (Morehouse College 2019)
