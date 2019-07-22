@@ -3,6 +3,11 @@ layout: page
 permalink: /publications/
 title: 
 pubs:
+    - title:   "Symmetry-Adapted Perturbation Theory Decomposition of the Reaction Force: Insights into Substituent Effects Involved in Hemiacetal Formation Mechanisms"
+      author:  "W. Derricotte"
+      journal: "ChemRxiv"
+      year:    "2019"
+      url:     "https://chemrxiv.org/articles/Symmetry-Adapted_Perturbation_Theory_Decomposition_of_the_Reaction_Force_Insights_into_Substituent_Effects_Involved_in_Hemiacetal_Formation_Mechanisms/8956919"
 
     - title:   "Mapping the 3D Orientation of Piconewton Integrin Traction Forces"
       author:  "J. Brockman, A. Blanchard, V. Ma, W. Derricotte, Y. Zhang, W. Lam, F. Evangelista, K. Salaita, A. Mattheyses"
@@ -36,7 +41,6 @@ pubs:
 
 ---
 
-## Publications
 {% assign thumbnail="left" %}
 
 {% for pub in page.pubs %}
