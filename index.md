@@ -7,6 +7,8 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* August 20th, 2019 - Our paper using SAPT and F-SAPT for reaction force analysis was [Just Accepted](https://pubs.acs.org/doi/10.1021/acs.jpca.9b06865) in the Journal of Physical Chemistry A.
+{% include image.html url="images/graphical_TOC.png" caption="" width="500px" align="center" %}
 * July 22nd, 2019 - Our paper detailing our new method applying Symmetry-Adapted Perturbation Theory to reaction force analysis is now available as a [ChemRxiv Preprint](https://chemrxiv.org/articles/Symmetry-Adapted_Perturbation_Theory_Decomposition_of_the_Reaction_Force_Insights_into_Substituent_Effects_Involved_in_Hemiacetal_Formation_Mechanisms/8956919)
 * July 19th, 2019 - Marquell Gave his final presentation on his summer project entitled "The Effect of Solvation on the Oxidation of Trimethylamine". Its been a great summer, congrats to Marquell!
 {% include image.html url="images/mcole_mcnair.jpg" caption="" width="500px" align="center" %}
