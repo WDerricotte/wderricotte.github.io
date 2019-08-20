@@ -5,7 +5,7 @@ title:
 pubs:
     - title:   "Symmetry-Adapted Perturbation Theory Decomposition of the Reaction Force: Insights into Substituent Effects Involved in Hemiacetal Formation Mechanisms"
       author:  "W. Derricotte"
-      journal: "ChemRxiv"
+      journal: "Journal of Physical Chemistry A"
       year:    "2019"
       url:     "https://chemrxiv.org/articles/Symmetry-Adapted_Perturbation_Theory_Decomposition_of_the_Reaction_Force_Insights_into_Substituent_Effects_Involved_in_Hemiacetal_Formation_Mechanisms/8956919"
 
