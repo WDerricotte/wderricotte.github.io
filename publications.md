@@ -7,7 +7,7 @@ pubs:
       author:  "W. Derricotte"
       journal: "Journal of Physical Chemistry A"
       year:    "2019"
-      url:     "https://chemrxiv.org/articles/Symmetry-Adapted_Perturbation_Theory_Decomposition_of_the_Reaction_Force_Insights_into_Substituent_Effects_Involved_in_Hemiacetal_Formation_Mechanisms/8956919"
+      url:     "https://pubs.acs.org/doi/10.1021/acs.jpca.9b06865"
 
     - title:   "Mapping the 3D Orientation of Piconewton Integrin Traction Forces"
       author:  "J. Brockman, A. Blanchard, V. Ma, W. Derricotte, Y. Zhang, W. Lam, F. Evangelista, K. Salaita, A. Mattheyses"
