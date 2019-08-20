@@ -21,16 +21,6 @@ permalink: /people/
 
 &nbsp;
 
-{% include image.html url="../images/sashley.jpg" caption="" width="250px" align="left" %}**Name**: Saul Ashley   
-**Classification**: Junior  
-**Education**: B.S. in Computer Science (Morehouse College 2021 Expected)  
-**Career Goal**: Medical Research MD/PhD  
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ## Group Alumni
 {% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
 **Current Position**: Masters Student in Atomspheric Science at Howard University  
