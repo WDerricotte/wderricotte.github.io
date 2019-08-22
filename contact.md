@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/
 title: Contact
 ---
-{% include image.html url="../images/derricotte_labcoat.png" caption="" width="400px" align="right" %}
+{% include image.html url="../images/lans_talk_pic_2.jpg" caption="" width="400px" align="right" %}
 **Dr. Wallace D. Derricotte**  
 Assistant Professor  
 Department of Chemistry  
