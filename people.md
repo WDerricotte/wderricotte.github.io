@@ -11,7 +11,7 @@ permalink: /people/
 **Aspirations**:To use my computational chemistry expertise to understand the driving forces behind chemical reactivity and mold a generation of young scientists through strong ethical leadership.  
 
 
-{% include image.html url="../images/marquell_2.jpg" caption="" width="250px" align="left" %}**Name**: Marquell Cole  
+{% include image.html url="../images/marquell_2.png" caption="" width="250px" align="left" %}**Name**: Marquell Cole  
 **Classification**: Senior  
 **Education**: B.S. in Chemistry (Morehouse College 2020 Expected)  
 **Career Goal**: Medical Research MD/PhD  
