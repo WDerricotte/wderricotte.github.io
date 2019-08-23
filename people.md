@@ -20,8 +20,6 @@ permalink: /people/
 
 &nbsp;
 
-&nbsp;
-
 
 {% include image.html url="../images/huiet_square.png" caption="" width="250px" align="left" %}**Name**: Huiet Joseph    
 **Classification**: Senior  
