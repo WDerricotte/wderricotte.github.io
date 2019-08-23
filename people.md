@@ -17,7 +17,7 @@ permalink: /people/
 **Career Goal**: Medical Research MD/PhD  
 
 
-{% include image.html url="../images/huiet_people_pic.png" caption="" width="250px" align="left" %}**Name**: Huiet Joseph    
+{% include image.html url="../images/huiet_square.png" caption="" width="250px" align="left" %}**Name**: Huiet Joseph    
 **Classification**: Senior  
 **Education**: B.S. in Chemistry (Morehouse College 2020 Expected)  
 **Career Goal**: Medical Doctor/Physician  
