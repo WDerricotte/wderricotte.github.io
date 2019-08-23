@@ -15,11 +15,7 @@ permalink: /people/
 **Classification**: Senior  
 **Education**: B.S. in Chemistry (Morehouse College 2020 Expected)  
 **Career Goal**: Medical Research MD/PhD  
-&nbsp;
 
-&nbsp;
-
-&nbsp;
 
 {% include image.html url="../images/huiet_people_pic.png" caption="" width="250px" align="left" %}**Name**: Marquell Cole
 **Classification**: Senior
