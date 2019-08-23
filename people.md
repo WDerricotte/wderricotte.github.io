@@ -21,6 +21,17 @@ permalink: /people/
 
 &nbsp;
 
+{% include image.html url="../images/huiet_people_pic.png" caption="" width="250px" align="left" %}**Name**: Marquell Cole
+**Classification**: Senior
+**Education**: B.S. in Chemistry (Morehouse College 2020 Expected)
+**Career Goal**: Medical Doctor/Physician
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 ## Group Alumni
 {% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
 **Current Position**: Masters Student in Atomspheric Science at Howard University  
