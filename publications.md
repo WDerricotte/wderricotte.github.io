@@ -5,7 +5,7 @@ title:
 pubs:
     - title:   "Symmetry-Adapted Perturbation Theory Decomposition of the Reaction Force: Insights into Substituent Effects Involved in Hemiacetal Formation Mechanisms"
       author:  "W. Derricotte"
-      journal: "Journal of Physical Chemistry A"
+      journal: "The Journal of Physical Chemistry A"
       year:    "2019"
       url:     "https://pubs.acs.org/doi/10.1021/acs.jpca.9b06865"
 
@@ -17,7 +17,7 @@ pubs:
 
     - title:   "Localized Intrinsic Valence Virtual Orbitals for the Automated Interpretation of Core Excited States"
       author:  "W. Derricotte and F. Evangelista"
-      journal: "Journal of Chemical Theory and Computation"
+      journal: "The Journal of Chemical Theory and Computation"
       year:    "2017"
       url:     "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00493"
 
@@ -29,7 +29,7 @@ pubs:
 
     - title:   "Predicting Near Edge X-ray Absorption Spectra with the Spin-Free Exact-Two-Component Hamiltonian and Orthogonality Constrained Density Functional Theory."
       author:  "P. Verma, W. Derricotte, F. Evangelista"
-      journal: "Journal of Chemical Theory and Computation"
+      journal: "The Journal of Chemical Theory and Computation"
       year:    "2016"
       url:     "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00817"
 
