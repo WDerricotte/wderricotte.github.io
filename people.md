@@ -37,6 +37,8 @@ permalink: /people/
 
 &nbsp;
 
+&nbsp;
+
 {% include image.html url="../images/narosemena.jpg" caption="" width="250px" align="left" %}**Name**: Nicholas Arosemena  
 **classification**: Sophomore  
 **Education**: B.S. in Physics/Mathematics (Morehouse College 2022 Expected)  
