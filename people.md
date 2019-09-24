@@ -31,14 +31,21 @@ permalink: /people/
 
 {% include image.html url="../images/psamp.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson  
 **classification**: Sophomore  
-**Education**: B.S. in Computer Science (Spelman College 2021 Expected)  
+**Education**: B.S. in Computer Science (Spelman College 2022 Expected)  
 **Career Goal**: 
 &nbsp;
 
 &nbsp;
 
+{% include image.html url="../images/narosemena.jpg" caption="" width="250px" align="left" %}**Name**: Nicholas Arosemena  
+**classification**: Sophomore  
+**Education**: B.S. in Physics/Mathematics (Morehouse College 2022 Expected)  
+**Career Goal**:
 &nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## Group Alumni
 {% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
