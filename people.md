@@ -31,6 +31,16 @@ permalink: /people/
 
 &nbsp;
 
+{% include image.html url="../images/psamp.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson
+**Classification**: Sophomore
+**Education**: B.S. in Computer Science (Spelman College 2021 Expected)
+**Career Goal**: 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ## Group Alumni
 {% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
