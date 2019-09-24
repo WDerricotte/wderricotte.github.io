@@ -29,11 +29,9 @@ permalink: /people/
 
 &nbsp;
 
-&nbsp;
-
-{% include image.html url="../images/psamp.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson
-**Classification**: Sophomore
-**Education**: B.S. in Computer Science (Spelman College 2021 Expected)
+{% include image.html url="../images/psamp.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson  
+**classification**: Sophomore  
+**Education**: B.S. in Computer Science (Spelman College 2021 Expected)  
 **Career Goal**: 
 &nbsp;
 
