@@ -32,7 +32,7 @@ permalink: /people/
 {% include image.html url="../images/psamp.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson  
 **classification**: Sophomore  
 **Education**: B.S. in Computer Science (Spelman College 2022 Expected)  
-**Career Goal**: 
+**Career Goal**: Interdisciplinary researcher and software engineer focusing on computing in the context of ethics, exploitation, and empire.
 &nbsp;
 
 &nbsp;

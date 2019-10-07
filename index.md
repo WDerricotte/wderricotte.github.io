@@ -7,6 +7,8 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* October 1st, 2019 - Princess attended the [Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, FL. The world's largest gathering of women technologists! 
+{% include image.html url="images/princess_ghc_pic.JPG" caption="" width="500px" align="center" %}
 * September 24th, 2019 - Sophomore computer science major Princess Sampson and sophomore Physics major Nicholas Arosemena officially join the group. Welcome to Princess and Nicholas! 
 * September 20th, 2019 - Dr. Derricotte gave an invited talk at the [2019 Herty Medal Research Symposium](https://commons.ggc.edu/hmurs/program-2/) at [Georgia Gwinnett College](https://www.ggc.edu/). Marquell also presented a poster based on his summer research.
 {% include image.html url="images/marquell_herty.jpg" caption="" width="500px" align="center" %}
