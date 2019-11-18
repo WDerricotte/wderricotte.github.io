@@ -7,6 +7,10 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* November 16th, 2019 - Dr. Derricotte gave a talk at [PSICON2019](https://admiring-tesla-08529a.netlify.com/posts/psicon-2019/) at Emory University. A gathering of PSI4 developers and wider community members. He gave an overview of the pyREX software and how it interfaces with PSI4 
+{% include image.html url="images/psicon_derricotte.jpg" caption="" width="500px" align="center" %}
+* November 14th, 2019 - Marquell (along with other representatives from Morehouse College) presented a poster at the 2019 Annual Biomedical Research Conference for Minority Students ([ABRCMS](http://www.abrcms.org/index.php)) in Anaheim, California
+{% include image.html url="images/marquell_abrcms.jpg" caption="" width="500px" align="center" %}
 * October 1st, 2019 - Princess attended the [Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, FL. The world's largest gathering of women technologists! 
 {% include image.html url="images/princess_ghc_pic.JPG" caption="" width="500px" align="center" %}
 * September 24th, 2019 - Sophomore computer science major Princess Sampson and sophomore Physics major Nicholas Arosemena officially join the group. Welcome to Princess and Nicholas! 
