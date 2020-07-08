@@ -32,15 +32,15 @@ permalink: /people/
 &nbsp;
 
 ## Group Alumni
-{% include image.html url="../images/huiet_square.png" caption="" width="150px" align="left" %}**Name**: Huiet Joseph 
-**Current Position**: Medical Student at University of Pennsylvania 
-**Education**: B.S. in Chemistry (Morehouse College 2020)
+{% include image.html url="../images/huiet_square.png" caption="" width="150px" align="left" %}**Name**: Huiet Joseph   
+**Current Position**: Medical Student at University of Pennsylvania  
+**Education**: B.S. in Chemistry (Morehouse College 2020)  
 &nbsp;
 
 &nbsp;
-{% include image.html url="../images/marquell_2.png" caption="" width="150px" align="left" %}**Name**: Marquell Cole
-**Current Position**: Master of Public Health Student at University of Georgia
-**Education**: B.S. in Chemistry (Morehouse College 2020) 
+{% include image.html url="../images/marquell_2.png" caption="" width="150px" align="left" %}**Name**: Marquell Cole  
+**Current Position**: Master of Public Health Student at University of Georgia  
+**Education**: B.S. in Chemistry (Morehouse College 2020)  
 &nbsp;
 
 &nbsp;
