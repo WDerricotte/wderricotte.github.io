@@ -23,6 +23,10 @@ permalink: /people/
 **Career Goal**:
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ## Group Alumni
 {% include image.html url="../images/huiet_square.png" caption="" width="150px" align="left" %}**Name**: Huiet Joseph   
 **Current Position**: Medical Student at University of Pennsylvania  
