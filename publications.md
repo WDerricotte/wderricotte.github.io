@@ -5,9 +5,9 @@ title:
 pubs:
     - title:   "Intramolecular Proton Transfer in the Isomerization of Hydroxyacetone: A Detailed Characterization Based on Reaction Force Analysis and the Bond Fragility Spectrum"
       author:  "H. Joseph and W. Derricotte"
-      journal: "ChemRxiv"
+      journal: "International Journal of Quantum Chemistry"
       year:    "2020"
-      url:     "https://chemrxiv.org/articles/Mechanism_for_Intramolecular_Proton_Transfer_in_the_Isomerization_of_Hydroxyacetone_A_Detailed_Characterization_Based_on_Reaction_Force_Analysis_and_the_Bond_Fragility_Spectrum/12049062"
+      url:     "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26269"
 
     - title:   "Symmetry-Adapted Perturbation Theory Decomposition of the Reaction Force: Insights into Substituent Effects Involved in Hemiacetal Formation Mechanisms"
       author:  "W. Derricotte"

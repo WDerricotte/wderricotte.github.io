@@ -7,6 +7,8 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* June 13th, 2020 - Our paper on characterizing intramolecular proton transfer in the isomerization of hydroxyacetone is now available in the [International Journal of Quantum Chemistry](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26269)
+{% include image.html url="images/toc_image_ijqc.PNG" caption="" width="300px" align="center" %}
 * April 17th, 2020 - Marquell has made his decision! He will be attending the University of Georgia to pursue a Master of Public Health degree. They are getting a great man, a humble man, a Morehouse Man. Congrats to Marquell.
 {% include image.html url="images/marquell_headshot.png" caption="" width="300px" align="center" %}
 * April 17th, 2020 - Princess contributed a paper to the Conference on [Human Factors in Computing Systems](https://sites.google.com/view/raceinhci/home) in collaboration with Spelman Assistant Professor [Jaye Nias](https://www.spelman.edu/academics/majors-and-programs/computer-and-information-sciences/faculty/jaye-nias) entitled ["Decolonizing Technologies for Preserving Cultural and Societal Diversity"](https://drive.google.com/file/d/0B1hsy0-u96ieak1DM2lWaE5QQnluV1JJNS1ySU9LUTdjcVVr/view).
