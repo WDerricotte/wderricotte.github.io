@@ -17,6 +17,8 @@ permalink: /people/
 **Career Goal**: Interdisciplinary researcher and software engineer focusing on computing in the context of ethics, exploitation, and empire.
 &nbsp;
 
+&nbsp;
+
 {% include image.html url="../images/narosemena.jpg" caption="" width="250px" align="left" %}**Name**: Nicholas Arosemena  
 **classification**: Sophomore  
 **Education**: B.S. in Physics/Mathematics (Morehouse College 2022 Expected)  
@@ -39,5 +41,5 @@ permalink: /people/
 &nbsp;
 
 {% include image.html url="../images/mberry.jpg" caption="" width="150px" align="left" %}**Name**: Malachi Berry  
-**Current Position**: Masters Student in Atomspheric Science at Howard University  
+**Current Position**: PhD Student in Physical Chemistry at Howard University  
 **Education**: B.S. in Chemistry (Morehouse College 2019)
