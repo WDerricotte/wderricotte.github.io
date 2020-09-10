@@ -4,4 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-COMING SOON
+**Fall 2020 Courses**
+CHEM 111 - General Chemistry 1 ([syllabus]({{ site.url }}/images/syllabus_111.pdf))
+CHEM 321 - Physical Chemistry 1 - Chemical Thermodynamics ([syllabus]({{ site.url }}/images/syllabus_321.pdf)) 
