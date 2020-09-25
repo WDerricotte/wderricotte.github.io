@@ -46,8 +46,8 @@ permalink: /people/
 &nbsp;
 
 {% include image.html url="../images/tyrone_thomas.jpg" caption="" width="250px" align="left" %}**Name**: Tyrone Thomas  
-**Classification**: Freshman
-**Education**: B.S. in Chemistry (Morehouse College 2024 Expected)
+**Classification**: Freshman  
+**Education**: B.S. in Chemistry (Morehouse College 2024 Expected)  
 **Career Goal**:  
 &nbsp;
 
