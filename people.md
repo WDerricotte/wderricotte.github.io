@@ -12,7 +12,7 @@ permalink: /people/
 
 
 {% include image.html url="../images/sampson_update_2020.jpg" caption="" width="250px" align="left" %}**Name**: Princess Sampson  
-**classification**: Junior  
+**Classification**: Junior  
 **Education**: B.S. in Computer Science (Spelman College 2022 Expected)  
 **Career Goal**: Interdisciplinary researcher and software engineer focusing on computing in the context of ethics, exploitation, and empire.
 &nbsp;
@@ -20,9 +20,9 @@ permalink: /people/
 &nbsp;
 
 {% include image.html url="../images/arosemena_update_2020.png" caption="" width="250px" align="left" %}**Name**: Nicholas Arosemena  
-**classification**: Junior  
+**Classification**: Junior  
 **Education**: B.S. in Physics/Mathematics (Morehouse College 2022 Expected)  
-**Career Goal**:
+**Career Goal**: Pursue a research career in the computational sciences and mathematics.  
 &nbsp;
 
 &nbsp;
