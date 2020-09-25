@@ -27,6 +27,30 @@ permalink: /people/
 
 &nbsp;
 
+{% include image.html url="../images/unique_akinloye.png" caption="" width="250px" align="left" %}**Name**: Unique Akinloye  
+**Classification**: Junior  
+**Education**: Dual-Degree Chemistry/Chemical Engineering (Spelman College 2022 Expected)  
+**Career Goal**:  
+&nbsp;
+
+&nbsp;
+
+{% include image.html url="../images/amani_talbert.jpg" caption="" width="250px" align="left" %}**Name**: Amani Talbert  
+**Classification**: Freshman  
+**Education**: B.S. in Chemistry (Morehouse College 2024 Expected)  
+**Career Goal**:  
+&nbsp;
+
+&nbsp;
+
+{% include image.html url="../images/tyrone_thomas.jpg" caption="" width="250px" align="left" %}**Name**: Tyrone Thomas  
+**Classification**: Freshman
+**Education**: B.S. in Chemistry (Morehouse College 2024 Expected)
+**Career Goal**:  
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 ## Group Alumni
