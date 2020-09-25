@@ -27,6 +27,8 @@ permalink: /people/
 
 &nbsp;
 
+&nbsp;
+
 {% include image.html url="../images/unique_akinloye.png" caption="" width="250px" align="left" %}**Name**: Unique Akinloye  
 **Classification**: Junior  
 **Education**: Dual-Degree Chemistry/Chemical Engineering (Spelman College 2022 Expected)  
