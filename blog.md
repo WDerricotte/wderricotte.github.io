@@ -10,4 +10,4 @@ CHEM 321 - Physical Chemistry 1 - Chemical Thermodynamics ([syllabus]({{ site.ur
 
 **YouTube Channel**  
 Channel Info
-{% include image.html url="images/pd_youtube_gallery.png" caption="" width="1500px" align="center" %} 
+{% include image.html url="../images/pd_youtube_gallery.png" caption="" width="1500px" align="center" %} 
