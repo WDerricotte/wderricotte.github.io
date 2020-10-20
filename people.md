@@ -33,6 +33,8 @@ permalink: /people/
 **Career Goal**: Pursue a career in cosmetic chemistry and/or process engineering, while helping increase the number of women and minorities working in STEM related fields by encouraging the next generation of future scientists through leadership.  
 &nbsp;
 
+&nbsp;  
+
 &nbsp;
 
 {% include image.html url="../images/amani_talbert.jpg" caption="" width="250px" align="left" %}**Name**: Amani Talbert  

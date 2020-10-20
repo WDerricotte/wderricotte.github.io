@@ -7,6 +7,8 @@ permalink: /
 {% include image.html url="images/DRG_logo_2019.png" caption="" width="1000px" align="center" %}  
 
 ## News
+* September 25th, 2020 - We would like to officially welcome three new research students Unique Akinloye, Amani Talbert, and Tyrone Thomas.  
+{% include image.html url="images/new_members_fall_2020.png" caption="" width="300px" align="center" %} 
 * June 13th, 2020 - Our paper on characterizing intramolecular proton transfer in the isomerization of hydroxyacetone is now available in the [International Journal of Quantum Chemistry](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26269)
 {% include image.html url="images/toc_image_ijqc.PNG" caption="" width="300px" align="center" %}
 * April 17th, 2020 - Marquell has made his decision! He will be attending the University of Georgia to pursue a Master of Public Health degree. They are getting a great man, a humble man, a Morehouse Man. Congrats to Marquell.
