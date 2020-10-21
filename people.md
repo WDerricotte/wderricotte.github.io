@@ -4,6 +4,8 @@ title: Group Members
 permalink: /people/
 ---
 
+{% include image.html url="../images/group_pic.png" caption="" width="800px" align="center" %}
+
 {% include image.html url="../images/derricotte_update_2020.jpeg" caption="" width="250px" align="left" %} **Name**: Wallace D. Derricotte, PhD  
 **Title**: Assistant Professor  
 **Education**: PhD in Computational Chemistry (Emory University 2017)  
