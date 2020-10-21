@@ -25,6 +25,8 @@ permalink: /people/
 **Career Goal**: Pursue a research career in the computational sciences and mathematics.  
 &nbsp;
 
+&nbsp;  
+
 &nbsp;
 
 {% include image.html url="../images/unique_akinloye.png" caption="" width="250px" align="left" %}**Name**: Unique Akinloye  
